@@ -1,0 +1,24 @@
+// iconName = "person-sharp";
+// type = "ionicon";
+// size = 24;
+
+// return (
+//   <View>
+//     <Icon
+//       type="material-community"
+//       name="shopping"
+//       size={responsiveFontSize(3.6)}
+//       color={color}
+//       style={{
+//         bottom: responsiveScreenHeight(0),
+//       }}
+//     />
+//     <Text style={styles.TabLabel}>Cart</Text>
+//   </View>
+// );
+// iconName = "shopping";
+// type = "material-community";
+// size = 24;
+// iconName = "home-filled";
+// type = "material";
+// size = 24;
